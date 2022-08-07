@@ -1,0 +1,6 @@
+[color]
+# supported colors are: red, green, yellow, magenta, cyan, white, blue, black.
+foreground = "#7790B1"
+;background = "#111111"
+;background = black
+;foreground = red
